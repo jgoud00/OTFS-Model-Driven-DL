@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+tqdm>=4.66
+# PyTorch is optional (large download) — install separately:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
